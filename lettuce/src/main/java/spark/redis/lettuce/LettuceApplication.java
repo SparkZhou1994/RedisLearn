@@ -11,6 +11,7 @@ import org.springframework.boot.autoconfigure.SpringBootApplication;
  * @Version 1.0
  **/
 @SpringBootApplication
+//@EnableScheduling
 public class LettuceApplication {
     public static void main(String[] args) {
         SpringApplication.run(LettuceApplication.class, args);
