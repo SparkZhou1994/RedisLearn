@@ -45,6 +45,7 @@
   </build>
 
   <modules>
+    <module>jedis</module>
     <module>lettuce</module>
   </modules>
 </project>
